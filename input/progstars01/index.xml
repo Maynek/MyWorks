@@ -12,6 +12,7 @@
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
+    	<Title>用語集</Title>
         <Tab Id="sekai">
 			<Title>世界関連</Title>
 			<Note Id="world1">
