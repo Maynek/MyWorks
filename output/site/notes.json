@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "novelId": "progstars01",
+    "noteId": "world1"
+  },
+  {
+    "novelId": "progstars01",
+    "noteId": "world2"
+  }
+]
