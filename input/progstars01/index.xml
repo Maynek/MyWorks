@@ -10,9 +10,15 @@
                 <Title>序章（１）　魔王</Title>
             </Episode>
         </Chapter>
+        <Chapter Id="c0001">
+            <Title>第１章　『星に願いを』</Title>
+            <Episode Id="c0001e01">
+                <Title>第１章　（１）修学旅行の思い出</Title>
+            </Episode>
+        </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
-    	<Title>用語集</Title>
+        <Title>用語集</Title>
         <Tab Id="sekai">
 			<Title>世界関連</Title>
 			<Note Id="world1">
