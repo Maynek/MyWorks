@@ -2,12 +2,12 @@
 
 <NotesvelIndex>
     <MainTitle>プログラマブル・スターズ １</MainTitle>
-    <SubTitle>俺のプログラムが黒髪の姫を救うまでの物語</SubTitle>
+    <SubTitle>俺のプログラムが黒髪の少女を救うまでの物語</SubTitle>
     <Chapters>
         <Chapter Id="c0000">
-            <Title>序章　『ビヨンド・ザ・スターライト』</Title>
+            <Title>序章　『星々の輝きの中で』</Title>
             <Episode Id="c0000e01">
-                <Title>序章（１）　無情の魔王</Title>
+                <Title>序章（１）　魔王</Title>
             </Episode>
         </Chapter>
     </Chapters>
